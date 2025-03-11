@@ -2,3 +2,4 @@
 control_test.py为仿真运行程序
 在工作空间source install/setup.bash后
 运行ros2 run control test 运行此程序
+运行ros2 run control pub来模拟发布圆筒位置，源码为pub.py
