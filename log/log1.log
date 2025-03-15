@@ -1,0 +1,1058 @@
+[INFO] [1742015675.804331077] [offboard_control_takeoff_and_land]: Switching to offboard mode
+[INFO] [1742015676.024012358] [offboard_control_takeoff_and_land]: 执行步骤1,判断飞机起飞前位置是否稳定
+[INFO] [1742015676.024819453] [offboard_control_takeoff_and_land]: positon:(6.226110935211182, -6.123644828796387, -0.10407250374555588)
+[INFO] [1742015676.324836014] [offboard_control_takeoff_and_land]: 执行步骤1,判断飞机起飞前位置是否稳定
+[INFO] [1742015676.326349456] [offboard_control_takeoff_and_land]: positon:(6.2258100509643555, -6.123656749725342, -0.1041988804936409)
+[INFO] [1742015676.626089775] [offboard_control_takeoff_and_land]: 执行步骤1,判断飞机起飞前位置是否稳定
+[INFO] [1742015676.626802400] [offboard_control_takeoff_and_land]: positon:(6.225578308105469, -6.123668193817139, -0.1036948710680008)
+[INFO] [1742015676.923402975] [offboard_control_takeoff_and_land]: 执行步骤1,判断飞机起飞前位置是否稳定
+[INFO] [1742015676.927683764] [offboard_control_takeoff_and_land]: positon:(6.225622177124023, -6.123715877532959, -0.10300904512405396)
+[INFO] [1742015677.225309436] [offboard_control_takeoff_and_land]: 执行步骤1,判断飞机起飞前位置是否稳定
+[INFO] [1742015677.228018703] [offboard_control_takeoff_and_land]: positon:(6.225874423980713, -6.123814582824707, -0.10261286050081253)
+[INFO] [1742015677.524318023] [offboard_control_takeoff_and_land]: 执行步骤1,判断飞机起飞前位置是否稳定
+[INFO] [1742015677.525212735] [offboard_control_takeoff_and_land]: positon:(6.226243495941162, -6.124031066894531, -0.102507084608078)
+[INFO] [1742015677.823722138] [offboard_control_takeoff_and_land]: 执行步骤1,判断飞机起飞前位置是否稳定
+[INFO] [1742015677.824478396] [offboard_control_takeoff_and_land]: positon:(6.226504802703857, -6.123704433441162, -0.10200420767068863)
+[INFO] [1742015678.123842571] [offboard_control_takeoff_and_land]: 执行步骤1,判断飞机起飞前位置是否稳定
+[INFO] [1742015678.124486338] [offboard_control_takeoff_and_land]: positon:(6.226261138916016, -6.123321533203125, -0.10166727751493454)
+[INFO] [1742015678.423674636] [offboard_control_takeoff_and_land]: 执行步骤1,判断飞机起飞前位置是否稳定
+[INFO] [1742015678.424588941] [offboard_control_takeoff_and_land]: positon:(6.225914001464844, -6.12299919128418, -0.1020660549402237)
+[INFO] [1742015678.724332445] [offboard_control_takeoff_and_land]: 执行步骤1,判断飞机起飞前位置是否稳定
+[INFO] [1742015678.725624610] [offboard_control_takeoff_and_land]: positon:(6.22580099105835, -6.12261438369751, -0.10271505266427994)
+[INFO] [1742015678.795947586] [offboard_control_takeoff_and_land]: 最大误差为0.0026,m.
+[INFO] [1742015678.797640983] [offboard_control_takeoff_and_land]: 0.17,return:True
+[INFO] [1742015678.799387162] [offboard_control_takeoff_and_land]: Arm command sent
+[INFO] [1742015678.801286889] [offboard_control_takeoff_and_land]: 起飞前位置稳定。
+[INFO] [1742015678.803160558] [offboard_control_takeoff_and_land]: 初始稳定位置记录为：x:6.23,y:-6.12,z:-0.10 米, init_yaw:1.40
+[INFO] [1742015678.804027786] [offboard_control_takeoff_and_land]: target_height:-1.8028029024600982
+[INFO] [1742015679.029858411] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015679.031005657] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015679.031938778] [offboard_control_takeoff_and_land]: 当前高度：-0.10 米，目标高度：-1.80 米，高度误差：1.70 米
+[INFO] [1742015679.324117957] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015679.329749128] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015679.330925007] [offboard_control_takeoff_and_land]: 当前高度：-0.10 米，目标高度：-1.80 米，高度误差：1.70 米
+[INFO] [1742015679.623543846] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015679.626393879] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015679.627789180] [offboard_control_takeoff_and_land]: 当前高度：-0.10 米，目标高度：-1.80 米，高度误差：1.70 米
+[INFO] [1742015679.923357263] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015679.924520881] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015679.925362310] [offboard_control_takeoff_and_land]: 当前高度：-0.10 米，目标高度：-1.80 米，高度误差：1.70 米
+[INFO] [1742015680.224654525] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015680.226011044] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015680.226792747] [offboard_control_takeoff_and_land]: 当前高度：-0.10 米，目标高度：-1.80 米，高度误差：1.70 米
+[INFO] [1742015680.524648756] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015680.526185122] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015680.526779792] [offboard_control_takeoff_and_land]: 当前高度：-0.10 米，目标高度：-1.80 米，高度误差：1.70 米
+[INFO] [1742015680.823724350] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015680.825992451] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015680.826543008] [offboard_control_takeoff_and_land]: 当前高度：-0.10 米，目标高度：-1.80 米，高度误差：1.70 米
+[INFO] [1742015681.125626764] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015681.126902889] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015681.127452149] [offboard_control_takeoff_and_land]: 当前高度：-0.10 米，目标高度：-1.80 米，高度误差：1.70 米
+[INFO] [1742015681.423883464] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015681.425160088] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015681.425766296] [offboard_control_takeoff_and_land]: 当前高度：-0.11 米，目标高度：-1.80 米，高度误差：1.70 米
+[INFO] [1742015681.723917044] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015681.727149951] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015681.728674814] [offboard_control_takeoff_and_land]: 当前高度：-0.12 米，目标高度：-1.80 米，高度误差：1.68 米
+[INFO] [1742015682.024992996] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015682.026412611] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015682.027082175] [offboard_control_takeoff_and_land]: 当前高度：-0.15 米，目标高度：-1.80 米，高度误差：1.66 米
+[INFO] [1742015682.324460556] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015682.327919847] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015682.328648582] [offboard_control_takeoff_and_land]: 当前高度：-0.24 米，目标高度：-1.80 米，高度误差：1.57 米
+[INFO] [1742015682.624444745] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015682.626351985] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015682.627301198] [offboard_control_takeoff_and_land]: 当前高度：-0.36 米，目标高度：-1.80 米，高度误差：1.44 米
+[INFO] [1742015682.923753498] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015682.925053383] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015682.925751374] [offboard_control_takeoff_and_land]: 当前高度：-0.50 米，目标高度：-1.80 米，高度误差：1.30 米
+[INFO] [1742015683.228512245] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015683.230608367] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015683.233049772] [offboard_control_takeoff_and_land]: 当前高度：-0.63 米，目标高度：-1.80 米，高度误差：1.17 米
+[INFO] [1742015683.523823532] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015683.525616226] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015683.527033896] [offboard_control_takeoff_and_land]: 当前高度：-0.73 米，目标高度：-1.80 米，高度误差：1.07 米
+[INFO] [1742015683.824892595] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015683.826160773] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015683.826984051] [offboard_control_takeoff_and_land]: 当前高度：-0.82 米，目标高度：-1.80 米，高度误差：0.98 米
+[INFO] [1742015684.124325125] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015684.126080853] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015684.126827236] [offboard_control_takeoff_and_land]: 当前高度：-0.92 米，目标高度：-1.80 米，高度误差：0.88 米
+[INFO] [1742015684.426102802] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015684.428029708] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015684.428832595] [offboard_control_takeoff_and_land]: 当前高度：-1.03 米，目标高度：-1.80 米，高度误差：0.77 米
+[INFO] [1742015684.726033356] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015684.727181451] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015684.727891702] [offboard_control_takeoff_and_land]: 当前高度：-1.14 米，目标高度：-1.80 米，高度误差：0.66 米
+[INFO] [1742015685.025633318] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015685.027082488] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015685.028056812] [offboard_control_takeoff_and_land]: 当前高度：-1.24 米，目标高度：-1.80 米，高度误差：0.56 米
+[INFO] [1742015685.324630531] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015685.325866205] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015685.326391722] [offboard_control_takeoff_and_land]: 当前高度：-1.33 米，目标高度：-1.80 米，高度误差：0.48 米
+[INFO] [1742015685.623405525] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015685.626912461] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015685.627902138] [offboard_control_takeoff_and_land]: 当前高度：-1.39 米，目标高度：-1.80 米，高度误差：0.41 米
+[INFO] [1742015685.925687993] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015685.927269579] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015685.928120839] [offboard_control_takeoff_and_land]: 当前高度：-1.45 米，目标高度：-1.80 米，高度误差：0.36 米
+[INFO] [1742015686.224052653] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015686.225265251] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015686.226286800] [offboard_control_takeoff_and_land]: 当前高度：-1.48 米，目标高度：-1.80 米，高度误差：0.33 米
+[INFO] [1742015686.525647041] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015686.527280055] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015686.527952970] [offboard_control_takeoff_and_land]: 当前高度：-1.51 米，目标高度：-1.80 米，高度误差：0.29 米
+[INFO] [1742015686.823290058] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015686.825850818] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015686.827903787] [offboard_control_takeoff_and_land]: 当前高度：-1.56 米，目标高度：-1.80 米，高度误差：0.25 米
+[INFO] [1742015687.124400200] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015687.127398118] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015687.128210708] [offboard_control_takeoff_and_land]: 当前高度：-1.60 米，目标高度：-1.80 米，高度误差：0.20 米
+[INFO] [1742015687.424400936] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015687.427305144] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015687.428612322] [offboard_control_takeoff_and_land]: 当前高度：-1.64 米，目标高度：-1.80 米，高度误差：0.16 米
+[INFO] [1742015687.724419377] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015687.726794365] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015687.727901363] [offboard_control_takeoff_and_land]: 当前高度：-1.68 米，目标高度：-1.80 米，高度误差：0.12 米
+[INFO] [1742015688.024820572] [offboard_control_takeoff_and_land]: 执行步骤2,上升到指定高度
+[INFO] [1742015688.026398377] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=0.0, y=0.0, z=-1.8028029024600982
+[INFO] [1742015688.027898400] [offboard_control_takeoff_and_land]: 当前高度：-1.69 米，目标高度：-1.80 米，高度误差：0.11 米
+[INFO] [1742015688.328425943] [offboard_control_takeoff_and_land]: 执行步骤3,飞向投水区
+[INFO] [1742015688.331500697] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=2.3, y=0, z=-1.8028029024600982
+[INFO] [1742015688.332484076] [offboard_control_takeoff_and_land]: --当前x：6.29,y:-6.29米，--目标x：6.62 米，y:-3.86,--误差：2.45 米
+[INFO] [1742015688.625689294] [offboard_control_takeoff_and_land]: 执行步骤3,飞向投水区
+[INFO] [1742015688.627698331] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=2.3, y=0, z=-1.8028029024600982
+[INFO] [1742015688.628619706] [offboard_control_takeoff_and_land]: --当前x：6.34,y:-6.11米，--目标x：6.62 米，y:-3.86,--误差：2.27 米
+[INFO] [1742015688.925801088] [offboard_control_takeoff_and_land]: 执行步骤3,飞向投水区
+[INFO] [1742015688.929701544] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=2.3, y=0, z=-1.8028029024600982
+[INFO] [1742015688.931324926] [offboard_control_takeoff_and_land]: --当前x：6.41,y:-5.80米，--目标x：6.62 米，y:-3.86,--误差：1.95 米
+[INFO] [1742015689.224112841] [offboard_control_takeoff_and_land]: 执行步骤3,飞向投水区
+[INFO] [1742015689.225871639] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=2.3, y=0, z=-1.8028029024600982
+[INFO] [1742015689.226964653] [offboard_control_takeoff_and_land]: --当前x：6.50,y:-5.41米，--目标x：6.62 米，y:-3.86,--误差：1.56 米
+[INFO] [1742015689.523829461] [offboard_control_takeoff_and_land]: 执行步骤3,飞向投水区
+[INFO] [1742015689.525178659] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=2.3, y=0, z=-1.8028029024600982
+[INFO] [1742015689.525921743] [offboard_control_takeoff_and_land]: --当前x：6.57,y:-4.99米，--目标x：6.62 米，y:-3.86,--误差：1.13 米
+[INFO] [1742015689.824787439] [offboard_control_takeoff_and_land]: 执行步骤3,飞向投水区
+[INFO] [1742015689.827120626] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=2.3, y=0, z=-1.8028029024600982
+[INFO] [1742015689.828259884] [offboard_control_takeoff_and_land]: --当前x：6.61,y:-4.63米，--目标x：6.62 米，y:-3.86,--误差：0.77 米
+[INFO] [1742015690.124809927] [offboard_control_takeoff_and_land]: 执行步骤3,飞向投水区
+[INFO] [1742015690.126437697] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=2.3, y=0, z=-1.8028029024600982
+[INFO] [1742015690.127931311] [offboard_control_takeoff_and_land]: --当前x：6.63,y:-4.34米，--目标x：6.62 米，y:-3.86,--误差：0.48 米
+[INFO] [1742015690.423304030] [offboard_control_takeoff_and_land]: 执行步骤3,飞向投水区
+[INFO] [1742015690.424234497] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=2.3, y=0, z=-1.8028029024600982
+[INFO] [1742015690.425827969] [offboard_control_takeoff_and_land]: --当前x：6.65,y:-4.12米，--目标x：6.62 米，y:-3.86,--误差：0.27 米
+[INFO] [1742015690.724024627] [offboard_control_takeoff_and_land]: 执行步骤3,飞向投水区
+[INFO] [1742015690.725484368] [offboard_control_takeoff_and_land]: Flying to FRDposition: x=2.3, y=0, z=-1.8028029024600982
+[INFO] [1742015690.726643497] [offboard_control_takeoff_and_land]: --当前x：6.66,y:-3.98米，--目标x：6.62 米，y:-3.86,--误差：0.13 米
+[INFO] [1742015691.024178417] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015691.328652093] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015691.625312886] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015691.924952090] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015692.223768253] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015692.526811054] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015692.828882220] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015693.125854327] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015693.426533627] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015693.723699375] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015694.028318742] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015694.326436146] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015694.628066581] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015694.925378194] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015695.226065480] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015695.526221350] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015695.825135181] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015696.125581334] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015696.429160906] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015696.726071885] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015697.026142122] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015697.326047947] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015697.623610944] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015697.925656992] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015698.223579132] [offboard_control_takeoff_and_land]: No target available, flying to drop area
+[INFO] [1742015698.513922288] [offboard_control_takeoff_and_land]: Bucket centers initialized: [[-0.70047605  0.44911183]
+ [-0.5758455   0.63482116]
+ [-0.63657688  0.56389582]]
+[INFO] [1742015698.515862719] [offboard_control_takeoff_and_land]: Selected target at index 1: [-0.5758455   0.63482116]
+[INFO] [1742015698.516843927] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015698.518858252] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015698.583782185] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015698.616394430] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015698.674897568] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015698.766006192] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015698.826525600] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015698.853747964] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015698.943693962] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015699.037327076] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015699.123312545] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015699.213831692] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015699.247502748] [offboard_control_takeoff_and_land]: Updated bucket center 1: [-0.556232    0.59259461]
+[INFO] [1742015699.248165565] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015699.248931352] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015699.303942168] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015699.395920088] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015699.454387648] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015699.484448061] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015699.573310369] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015699.673144279] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015699.754140893] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015699.843665185] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015699.876248045] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015699.934178425] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015700.023910555] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015700.084349064] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015700.114775988] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015700.205090222] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015700.297156560] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015700.383746201] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015700.473268184] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015700.534971620] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015700.564900589] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015700.653655489] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015700.744394674] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015700.838108759] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015700.925478909] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015701.013707496] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015701.105517751] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015701.167027044] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015701.195188046] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015701.285383686] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015701.374763242] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015701.467411787] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015701.555169728] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015701.589836967] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015701.643275356] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015701.734801871] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015701.802469788] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015701.823750457] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015701.914446201] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015702.006113872] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015702.093071385] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015702.185465125] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015702.245508793] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015702.246319471] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015702.273458107] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015702.364506157] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015702.454997212] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015702.544482374] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015702.633253790] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015702.669711716] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015702.723859184] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015702.814297662] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015702.875997112] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015702.904735584] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015702.993356806] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015703.083966193] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015703.173689433] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015703.265940525] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015703.293159009] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015703.325294411] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015703.353693150] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015703.445975077] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015703.533679791] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015703.624571655] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015703.715015493] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015703.747604663] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015703.748232940] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015703.804070676] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015703.894612242] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015703.953884012] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015703.984036853] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015704.073803629] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015704.166505349] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015704.253770251] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015704.345242992] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015704.404114906] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015704.434808177] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015704.524362231] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015704.613666642] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015704.644718619] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015704.645516999] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015704.705530868] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015704.793560649] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015704.855762905] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015704.885303775] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015704.976155220] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015705.068870606] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015705.153670691] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015705.243319225] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015705.274996321] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015705.336940229] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015705.424330484] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015705.484698263] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015705.513684759] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015705.603784874] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015705.694629607] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015705.783631362] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015705.875622291] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015705.903855021] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015705.965076776] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015706.054416295] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015706.144222552] [offboard_control_takeoff_and_land]: Updated bucket center 1: [-0.3180865  -0.41972345]
+[INFO] [1742015706.145003079] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015706.145725454] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015706.235849304] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015706.323370392] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015706.413435516] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015706.503120934] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015706.566266615] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015706.594367571] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015706.683258886] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015706.774528673] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015706.867045994] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015706.954120927] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015706.984111936] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015707.043975601] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015707.133943565] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015707.197040282] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015707.226093173] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015707.314122822] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015707.405357655] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015707.493865091] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015707.583356231] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015707.647376019] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015707.648072337] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015707.673798630] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015707.763300474] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015707.823490839] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015707.854676816] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015707.944324391] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015708.037862883] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015708.070188842] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015708.124044403] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015708.214155740] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015708.275349016] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015708.305267059] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015708.393769526] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015708.483244753] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015708.514081201] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015708.574157061] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015708.665108168] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015708.723436429] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015708.754096533] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015708.846308231] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015708.934504847] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015709.024432593] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015709.116893892] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015709.144740366] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015709.148545267] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015709.203795930] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015709.293810497] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015709.353513505] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015709.383942885] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015709.476738555] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015709.563913460] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015709.653361402] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015709.745046435] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015709.805030496] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015709.833937586] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015709.923683656] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015710.013849080] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015710.105702673] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015710.193965525] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015710.225417048] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015710.284281123] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015710.373740414] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015710.436592104] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015710.463387807] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015710.553205711] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015710.644759323] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015710.677498067] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015710.734231318] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015710.824150579] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015710.885224910] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015710.913943518] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015711.004782367] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015711.096438500] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015711.183436482] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015711.273895807] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015711.305319950] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015711.364058652] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015711.454323873] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015711.513830267] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015711.545483386] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015711.634237151] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015711.723277266] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015711.756413358] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015711.816191359] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015711.905880252] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015711.963447036] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015711.993671445] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015712.083946110] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015712.174113434] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015712.206412507] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015712.264601220] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015712.353717707] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015712.419418139] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015712.444791527] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015712.534065838] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015712.623661815] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015712.654433895] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015712.714484046] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015712.805121822] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015712.864291794] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015712.893770450] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015712.984540733] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015713.074259960] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015713.163327664] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015713.254142078] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015713.284256466] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015713.343364236] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015713.434525891] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015713.524221223] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015713.615882091] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015713.704097415] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015713.735499134] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015713.794064003] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015713.884514526] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015713.944109230] [offboard_control_takeoff_and_land]: Updated bucket center 1: [-0.2979247  -0.20267014]
+[INFO] [1742015713.945039356] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015713.946444064] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015713.976369720] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015714.064962495] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015714.154441332] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015714.185397575] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015714.245065270] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015714.335274222] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015714.398003495] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015714.424153137] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015714.514351903] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015714.604078934] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015714.693958459] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015714.785341620] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015714.815240151] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015714.874661554] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015714.963948523] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015715.053716418] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015715.144680023] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015715.233644890] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015715.265956516] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015715.324976315] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015715.415191115] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015715.476997430] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015715.504086791] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015715.594994092] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015715.683321634] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015715.715146869] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015715.774512325] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015715.864791539] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015715.923774771] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015715.953314896] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015716.045847945] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015716.133661408] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015716.223813848] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015716.314533888] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015716.347542380] [offboard_control_takeoff_and_land]: Updated bucket center 1: [-0.44304409 -0.297792  ]
+[INFO] [1742015716.350304503] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015716.352422558] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015716.403738669] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015716.494002126] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015716.555377297] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015716.584022961] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015716.675472774] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015716.763390995] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015716.853958322] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015716.945626558] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015716.978325941] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015717.033483338] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015717.124120445] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015717.184358296] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015717.213489669] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015717.304106724] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015717.393956139] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015717.423079513] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015717.484265064] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015717.577003958] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015717.636372300] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015717.664345029] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015717.755138608] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015717.843683703] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015717.844232233] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015717.934075576] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015718.023270978] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015718.114478308] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015718.143969857] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015718.150212491] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015718.204261668] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015718.295702235] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015718.384778461] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015718.416927335] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015718.474364523] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015718.563404534] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015718.654364426] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015718.746073760] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015718.833972861] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015718.867151461] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015718.923693937] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015719.013561786] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015719.076370106] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015719.103820918] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015719.193500669] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015719.284483416] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015719.313424005] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015719.374884097] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015719.463946030] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015719.524022734] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015719.554380539] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015719.644865817] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015719.735324988] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015719.824408343] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015719.915893299] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015719.943949042] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015719.944969402] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015720.003650599] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015720.093517557] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015720.184100337] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015720.274454786] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015720.365047786] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015720.394387507] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015720.454193757] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015720.544385418] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015720.604338698] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015720.634189943] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015720.724843692] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015720.813232126] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015720.845328764] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015720.848467949] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015720.903274887] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015720.993273119] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015721.055921287] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015721.087464745] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015721.174946173] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015721.263649950] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015721.354814722] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015721.444390075] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015721.475228337] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015721.533688364] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015721.623608733] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015721.715351296] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015721.803516683] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015721.896151336] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015721.953872580] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015721.986323108] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015722.073528500] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015722.166872350] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015722.254093673] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015722.344514821] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015722.374453767] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015722.433822448] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015722.523618087] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015722.614267493] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015722.704099812] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015722.793879694] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015722.828683541] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015722.883407526] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015722.974346828] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015723.033669833] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015723.064053036] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015723.154219342] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015723.245749463] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015723.246497805] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015723.333291250] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015723.424727276] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015723.486028465] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015723.515559399] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015723.603949011] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015723.694136702] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015723.788940460] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015723.874539006] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015723.906495435] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015723.963385840] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015724.054857721] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015724.116803114] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015724.150219089] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015724.233295117] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015724.326018443] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015724.414468578] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015724.503310485] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015724.534113746] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015724.593814367] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015724.685465234] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015724.773531356] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015724.864697059] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015724.956101410] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015724.984089378] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015725.044919853] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015725.133874050] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015725.227298159] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015725.317186840] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015725.403581974] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015725.435364577] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015725.493603560] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015725.585295773] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015725.651528394] [offboard_control_takeoff_and_land]: Updated bucket center 1: [-0.52584133 -0.18730425]
+[INFO] [1742015725.652274333] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015725.654128099] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015725.674399428] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015725.763642135] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015725.854872698] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015725.943388316] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015726.033427731] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015726.093266131] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015726.124299345] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015726.215468562] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015726.303629389] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015726.393662540] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015726.484160600] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015726.515293447] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015726.544300787] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015726.545033712] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015726.574332396] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015726.663942537] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015726.757136165] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015726.843656244] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015726.934511750] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015726.963799232] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015727.023521766] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015727.114250615] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015727.175318087] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015727.205002239] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015727.293930656] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015727.384463108] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015727.415611150] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015727.474122582] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015727.563652037] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015727.625497966] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015727.655545118] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015727.748108635] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015727.837491557] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015727.923750581] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015728.017770255] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015728.044331672] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015728.045528031] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015728.103215373] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015728.194930174] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015728.255774974] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015728.291162250] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015728.373714242] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015728.464136641] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015728.555150879] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015728.618229275] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015728.644678226] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015728.734651341] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015728.826147470] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015728.914766341] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015729.003564005] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015729.034580640] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015729.094124922] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015729.184070688] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015729.251845142] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015729.254104332] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015729.273865346] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015729.363362233] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015729.456262180] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015729.489129287] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015729.544413244] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015729.634123618] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015729.696446995] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015729.726512177] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015729.814313514] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015729.903630389] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015729.996606696] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015730.085472083] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015730.119388126] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015730.174277137] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015730.263876244] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015730.356247881] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015730.443050351] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015730.534052831] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015730.565434015] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015730.624718527] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015730.714163675] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015730.775277759] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015730.803847696] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015730.894375540] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015730.985535054] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015731.074401513] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015731.165883902] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015731.193696093] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015731.253250869] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015731.343720604] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015731.403820914] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015731.434740670] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015731.524980771] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015731.617390623] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015731.703865752] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015731.793806061] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015731.856405465] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015731.885029191] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015731.973685791] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015732.063340930] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015732.096505881] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015732.156187643] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015732.243966405] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015732.305449270] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015732.334426316] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015732.427315763] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015732.513501319] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015732.605335615] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015732.694692530] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015732.726454229] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015732.784609423] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015732.873293265] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015732.963828166] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015733.058088957] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015733.144000988] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015733.176131791] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015733.234895845] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015733.326415636] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015733.388809735] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015733.414431715] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015733.504465022] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015733.593367630] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015733.625642154] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015733.685875065] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015733.774295479] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015733.835204983] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015733.865450301] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015733.953830053] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015734.045424405] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015734.045983998] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015734.137173410] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015734.227561873] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015734.257794175] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015734.313736729] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015734.405262504] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015734.493600851] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015734.585469358] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015734.673243187] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015734.705312596] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015734.763642667] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015734.854619626] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015734.913849782] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015734.944999017] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015735.036242969] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015735.124410663] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015735.155133400] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015735.214085310] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015735.303756271] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015735.363307454] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015735.394241626] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015735.485954821] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015735.575204560] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015735.664296411] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015735.753780286] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015735.786014548] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015735.843439378] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015735.933770328] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015736.024736861] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015736.114675521] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015736.203352935] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015736.234046230] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015736.294166779] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015736.385988568] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015736.414446705] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015736.473752247] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015736.564591366] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015736.747299861] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015736.833608781] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015736.924095871] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015737.014911934] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015737.104486759] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015737.195311889] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015737.287136579] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015737.317004014] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015737.374474481] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015737.464509230] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015737.526091866] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015737.557269562] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015737.643312330] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015737.735215399] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015737.825480600] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015737.914440724] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015737.943477003] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015737.945319531] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015738.005812557] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015738.096529671] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015738.156198149] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015738.189920288] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015738.274084746] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015738.363624116] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015738.393612882] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015738.455434965] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015738.543557750] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015738.603493584] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015738.634618932] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015738.724062777] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015738.814225977] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015738.903972321] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015738.996339546] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015739.058792073] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015739.084802703] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015739.173854688] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015739.265458938] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015739.355313733] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015739.443780548] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015739.473735035] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015739.504271692] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015739.533619937] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015739.624027980] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015739.684780333] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015739.714095675] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015739.805275051] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015739.893646951] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015739.925616675] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015739.983720553] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015740.074160312] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015740.134296097] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015740.166227509] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015740.254941493] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015740.348451741] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015740.349147418] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015740.434201355] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015740.523826619] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015740.560518114] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015740.613399705] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015740.704139744] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015740.795772456] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015740.883732789] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015740.973478150] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015741.063413887] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015741.155981377] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015741.184142373] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015741.243668047] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015741.334603746] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015741.427434001] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015741.514572550] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015741.603987482] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015741.633495154] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015741.695058776] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015741.784482540] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015741.844286977] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015741.846339349] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015741.874453388] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015741.965542976] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015742.054025871] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015742.083979760] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015742.144200077] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015742.233889431] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015742.293364110] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015742.325007788] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015742.413509296] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015742.503775602] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015742.534222935] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015742.596642444] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015742.684782883] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015742.745843900] [offboard_control_takeoff_and_land]: Updated bucket center 1: [-0.25050842 -0.23470809]
+[INFO] [1742015742.747101682] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015742.748833447] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015742.776405682] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015742.864993403] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015742.958081701] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015743.049973333] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015743.134164496] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015743.169628701] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015743.224990358] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015743.315110819] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015743.404370672] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015743.496054642] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015743.583314590] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015743.614080267] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015743.675133471] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015743.763809816] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015743.830287577] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015743.854877577] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015743.944284580] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015744.033843079] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015744.126062850] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015744.216843335] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015744.244007381] [offboard_control_takeoff_and_land]: Updated bucket center 1: [-0.31190071  0.09840146]
+[INFO] [1742015744.245120129] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015744.245803424] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015744.304373604] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015744.395042953] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015744.485652031] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015744.573824377] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015744.664010724] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015744.694838811] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015744.753728511] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015744.845154055] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015744.905165854] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015744.933994105] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015745.024991393] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015745.113633094] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015745.143483591] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015745.146835284] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015745.204063249] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015745.294424968] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015745.325800152] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015745.353586261] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015745.384349807] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015745.474046542] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015745.563659712] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015745.654644826] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015745.745018154] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015745.775022357] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015745.834466379] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015745.927583985] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015745.983779784] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015746.015594229] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015746.105836867] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015746.194514078] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015746.225885660] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015746.283901936] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015746.374979467] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015746.435457056] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015746.466850155] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015746.556634693] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015746.643645618] [offboard_control_takeoff_and_land]: Updated bucket center 1: [-0.18340304 -0.15016785]
+[INFO] [1742015746.644202929] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015746.645005455] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015746.736580007] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015746.824098730] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015746.853725701] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015746.915190463] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015747.004200739] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015747.065687660] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015747.093805124] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015747.184910928] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015747.274727440] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015747.363434807] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015747.456464707] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015747.483723632] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015747.543595683] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015747.634152951] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015747.723769724] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015747.815758010] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015747.904363240] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015747.936530414] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015747.994779005] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015748.083720216] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015748.144197732] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015748.145612736] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015748.174009876] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015748.265225478] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015748.353931873] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015748.384395284] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015748.444008629] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015748.533956897] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015748.596675258] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015748.627288246] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015748.715135137] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015748.804043196] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015748.901183157] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015748.984630644] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015749.013577735] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015749.073706237] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015749.164416456] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015749.343907421] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015749.434110395] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015749.524355105] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015749.615783253] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015749.673654221] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015749.704489284] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015749.794942769] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015749.883526442] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015749.977010643] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015750.065823974] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015750.101236961] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015750.154267756] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015750.245008479] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015750.336621654] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015750.423920882] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015750.513536068] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015750.544466495] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015750.545158075] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015750.604362746] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015750.695953923] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015750.756666723] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015750.785607827] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015750.875216773] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015750.967458590] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015751.055351583] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015751.143577665] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015751.173976220] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015751.235706333] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015751.324213091] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015751.415293657] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015751.504014635] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015751.595423761] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015751.684370884] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015751.773799702] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015751.833879048] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015751.865013144] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015751.953069074] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015752.047679627] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015752.048345286] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015752.134380571] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015752.223540988] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015752.284380059] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015752.314131806] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015752.403826153] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015752.496487609] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015752.583439734] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015752.674256271] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015752.706973035] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015752.763774802] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015752.854078832] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015752.913898741] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015752.945130496] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015753.035677343] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015753.124955819] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015753.213946895] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015753.305279422] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015753.368503458] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015753.395871646] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015753.484496664] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015753.573624246] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015753.605540347] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015753.665129053] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015753.753391437] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015753.813691596] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015753.845874875] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015753.936143371] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015754.023734894] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015754.114038863] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015754.206069602] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015754.234968515] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015754.295051358] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015754.384310533] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015754.473474013] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015754.564172094] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015754.653647824] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015754.685387165] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015754.743243839] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015754.833807951] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015754.894217227] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015754.923619484] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015755.013986765] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015755.107931367] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015755.194255832] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015755.284990386] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015755.314382288] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015755.373742246] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015755.467497901] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015755.523879938] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015755.556218412] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015755.645387938] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015755.735392927] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015755.767266313] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015755.824159527] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015755.915388296] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015755.978702346] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015756.004282631] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015756.094074999] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015756.186932915] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015756.273778300] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015756.367374892] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015756.396743366] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015756.453772260] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015756.544258623] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015756.604206337] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015756.633415899] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015756.724720395] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015756.814056099] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015756.846018458] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015756.846669828] [offboard_control_takeoff_and_land]: Performing first alignment
+[INFO] [1742015756.903889723] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015756.994578569] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015757.055069588] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015757.083697732] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015757.173709143] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015757.265585746] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015757.353985777] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015757.443775781] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015757.506608258] [offboard_control_takeoff_and_land]: 超过最大步长，
+[INFO] [1742015757.537030748] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015757.625462924] [offboard_control_takeoff_and_land]: 使用上次记录
+[INFO] [1742015757.71
