@@ -63,13 +63,13 @@ class OffboardControl(Node):
 
 
         #起飞高度
-        self.takeoff_height = -1.7
+        self.takeoff_height = -2.0
         #向前飞行的距离
         self.forward_x = 2.3
         #最大步长
         self.align_maxstep = 0.2
         #对准之后下降的高度
-        self.afterAlign_descentHeight = 0.5
+        self.afterAlign_descentHeight = 0.7
 
         self.initial_z = None  # 初始高度
         self.initial_x = None  #
@@ -109,15 +109,15 @@ class OffboardControl(Node):
           # 初始化 AlignmentChecker
         self.first_alignment_checker = AlignmentChecker(
             logger_func=self.get_logger().info,  # 传递日志记录函数
-            threshold=0.18,
+            threshold=0.15,
             time_window=2.0,
             check_frequency=5
         )
         self.second_alignment_checker = AlignmentChecker(
             logger_func=self.get_logger().info,  # 传递日志记录函数
-            threshold=0.15,
+            threshold=0.10,
             time_window=2.0,
-            check_frequency=10
+            check_frequency=5
         )
         # 初始化舵机控制器
         self.servo_control = ServoControl()
@@ -225,7 +225,7 @@ class OffboardControl(Node):
             self.get_logger().info(f"target_height:{self.takeoff_target_height}")
         self.fly_to_position_FRD2NED(0.0, 0.0, self.takeoff_target_height)
 
-    def takeoff_height_check(self, threshold=0.1):
+    def takeoff_height_check(self, threshold=0.22):
         """
         检查是否到达相对目标高度
         :param threshold: 高度误差阈值
@@ -321,8 +321,8 @@ class OffboardControl(Node):
             current_x, current_y =self.coordinate_NED2FRD(current_xned,current_yned)
             distance = math.sqrt((self.target_position.x)**2+(self.target_position.y)**2)
             scale = self.align_maxstep/distance 
-            target_x_FRD = current_x + self.target_position.y -0.05  # 0.05 为相机中心相对投放中心的误差。
-            target_y_FRD = current_y - self.target_position.x
+            target_x_FRD = current_x + self.target_position.y + 0.055  # 0.05 为相机中心相对投放中心的误差。
+            target_y_FRD = current_y - self.target_position.x + 0.037
             target_x_NED, target_y_NED = self.coordinate_FRD2NED(target_x_FRD, target_y_FRD)
             if distance < self.align_maxstep:
                 target_x_FRD_f = current_x + self.target_position.y
