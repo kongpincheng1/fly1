@@ -23,6 +23,9 @@ setup(
             'fly = control.latest_single_drop:main',
             'pub = control.sim_pub:main',
             'mul = control.test_mulitiDrop:main',
+            'mul1 = control.test_mulitiDrop1:main',
+            'servo = control.servo_test:main',
+            'mission_mul = control.mission_mul:main',
         ],
     },
 )

@@ -101,6 +101,22 @@ class VisualServoingController:
         self.visual_state = VisualState.GLOBAL_SEARCH
         self.current_target_label = None
         self.initial_target_map = {}
+        self.last_detection_count = 0 # 同样重置
+
+    # <<< 新增：一个方法，用于在两次投放之间重置状态 >>>
+    def reset_to_search_mode(self):
+        """
+        将控制器重置回搜索模式，以便重新确认所有目标。
+        这个方法不会清除 initial_target_map。
+        """
+        print("视觉控制器：重置为搜索模式，以重新确认所有目标。")
+        self.visual_state = VisualState.GLOBAL_SEARCH
+        self.current_target_label = None # 清除当前特定目标
+
+    # <<< 新增：一个getter方法，用于获取检测到的目标数 >>>
+    def get_current_detection_count(self) -> int:
+        """返回上一帧处理中检测到的目标数量。"""
+        return self.last_detection_count
 
     def set_target(self, target_label):
         """
@@ -187,9 +203,11 @@ class VisualServoingController:
                 x1, y1, x2, y2 = map(int, box.xyxy[0])
                 cx, cy = int((x1 + x2) / 2), int((y1 + y2) / 2)
                 detections.append({'center': (cx, cy), 'box': [x1, y1, x2, y2]})
-
+        # <<< 新增：更新检测到的目标数量 >>>
+        self.last_detection_count = len(detections)
         # 2. 视觉状态机逻辑 (保持不变)
         command = None
+        
         if self.visual_state == VisualState.GLOBAL_SEARCH:
             if not self.initial_target_map and len(detections) == 3:
                 print("视觉控制器：全局搜索成功，已识别3个目标。")
